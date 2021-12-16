@@ -24,6 +24,8 @@
    
 4) Enjoy using PANDORA!
 
+## Data Structure
+
 ```
 data/  
  └──csv_pkl_files/  
