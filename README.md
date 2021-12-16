@@ -2,15 +2,11 @@
 
 ## Installation
 
-1) Install git-lfs with:
-   ```
-   git lfs install
-   ```
-   or visit the official installation page: https://git-lfs.github.com/
+1) Install git-lfs by following the instructions in this README: https://github.com/git-lfs/git-lfs/blob/main/README.md
 
 2) Clone this repository with git-lfs:
    ```
-   git-lfs clone https://github.com/X-lab-3D/PANDORA_database.git
+   git lfs clone https://github.com/X-lab-3D/PANDORA_database.git
    ```
 
 3) Uncompress the database folder:
