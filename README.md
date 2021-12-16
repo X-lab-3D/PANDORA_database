@@ -1,4 +1,32 @@
-Database for PANDORA
+# Database for PANDORA
+
+## Installation
+
+1) Install git-lfs with:
+   ```
+   git lfs install
+   ```
+   or visit the official installation page: https://git-lfs.github.com/
+
+2) Clone this repository with git-lfs:
+   ```
+   git-lfs clone https://github.com/X-lab-3D/PANDORA_database.git
+   ```
+
+3) Uncompress the database folder:
+   ```
+   tar xzf pandora_database.tar.gz
+   ```
+
+4) Copy the folder inside your PANDORA installation:
+   ```
+   cp -r ./PANDORA_files /path/to/PANDORA/
+   ```
+   OR move the folder inside your PANDORA installation:
+   ```
+   mv -r ./PANDORA_files /path/to/PANDORA/
+   ```
+5) Enjoy using PANDORA!
 
 ```
 data/  
