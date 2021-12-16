@@ -2,11 +2,12 @@
 
 ## Installation
 
+
 1) Clone this repository with git:
    ```
    git clone https://github.com/X-lab-3D/PANDORA_database.git
    ```
-
+   
 2) Uncompress the database file:
    ```
    tar -xvzf ./data/csv_pkl_files/database.tar.gz -C ./data/csv_pkl_files/
@@ -20,6 +21,7 @@
    ```
    mv -r ./data /path/to/PANDORA/PANDORA_files/
    ```
+   
 4) Enjoy using PANDORA!
 
 ```
