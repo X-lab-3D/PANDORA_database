@@ -15,14 +15,24 @@
 
 3) Copy the folder inside your PANDORA installation:
    ```
-   cp -r ./data /path/to/PANDORA/PANDORA_files/
+   cp -r ./data path_to_PANDORA/PANDORA_files/
    ```
    OR move the folder inside your PANDORA installation:
    ```
-   mv -r ./data /path/to/PANDORA/PANDORA_files/
+   mv -r ./data path_to_PANDORA/PANDORA_files/
    ```
    
-4) Enjoy using PANDORA!
+4) Repath your database:
+
+   To properly use the database object, you need to specify the absolute path to the PDB template structures.
+   You can either do it every time you load the database or do it just once and save it to a new database (as shown below).
+   ```
+   from PANDORA.Database import Database
+
+   db = Database.load('path_to_PANDORA/PANDORA_files/data/csv_pkl_files/database.pkl')
+   db.repath('absolute_path_to_PANDORA/PANDORA_files/data/PDBs', save='path_to_PANDORA/PANDORA_files/data/csv_pkl_files/database_repath.pkl')
+   ```
+5) Enjoy using PANDORA!
 
 ## Data Structure
 
