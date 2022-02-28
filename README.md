@@ -26,6 +26,7 @@
 
    To properly use the database object, you need to specify the absolute path to the PDB template structures.
    You can either do it every time you load the database or do it just once and save it to a new database (as shown below).
+   Use in python 3:
    ```
    from PANDORA.Database import Database
 
