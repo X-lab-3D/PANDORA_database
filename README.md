@@ -20,7 +20,7 @@
 
 4) Copy the folder inside your PANDORA installation (fill in <path_to_PANDORA>:
    ```
-   cp -r ./data <path_to_PANDORA>/PANDORA_files/
+   cp -r ./data/ <path_to_PANDORA>/PANDORA_files/
    ```
    OR move the folder inside your PANDORA installation:
    ```
