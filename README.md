@@ -32,11 +32,11 @@
    To properly use the database object, you need to specify the absolute path to the PDB template structures.
    You can either do it every time you load the database or do it just once and save it to a new database (as shown below).
    Use in python 3:
-   ```
+   ```python
    from PANDORA.Database import Database
 
-   db = Database.load('path_to_PANDORA/PANDORA_files/data/csv_pkl_files/database.pkl')
-   db.repath('absolute_path_to_PANDORA/PANDORA_files/data/PDBs', save='path_to_PANDORA/PANDORA_files/data/csv_pkl_files/database_repath.pkl')
+   db = Database.load('<path_to_PANDORA>/PANDORA_files/data/csv_pkl_files/database.pkl')
+   db.repath('<absolute_path_to_PANDORA>/PANDORA_files/data/PDBs', save='<path_to_PANDORA>/PANDORA_files/data/csv_pkl_files/database_repath.pkl')
    ```
 6) Enjoy using PANDORA!
 
