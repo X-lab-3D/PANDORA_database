@@ -10,16 +10,16 @@
    
 2) Uncompress the database file:
    ```
-   tar -xvf ./data/csv_pkl_files/database.tar.xz -C ./data/csv_pkl_files/
+   tar -xvf ./default/database.tar.xz -C ./default/
    ```
 
-3) Copy the folder inside your PANDORA installation:
+3) Copy the folder `default/` inside your PANDORA installation:
    ```
-   cp -r ./data path_to_PANDORA/PANDORA_files/
+   cp -r ./default path_to_PANDORA/Databases/
    ```
    OR move the folder inside your PANDORA installation:
    ```
-   mv -r ./data path_to_PANDORA/PANDORA_files/
+   mv -r ./default path_to_PANDORA/Databases/
    ```
    
 4) Repath your database:
@@ -30,19 +30,18 @@
    ```
    from PANDORA.Database import Database
 
-   db = Database.load('path_to_PANDORA/PANDORA_files/data/csv_pkl_files/database.pkl')
-   db.repath('absolute_path_to_PANDORA/PANDORA_files/data/PDBs', save='path_to_PANDORA/PANDORA_files/data/csv_pkl_files/database_repath.pkl')
+   db = Database.load('path_to_PANDORA/Databases/default/db.pkl')
+   db.repath('absolute_path_to_PANDORA/Databases/default/PDBs', save='path_to_PANDORA/Databases/default/db_repath.pkl')
    ```
 5) Enjoy using PANDORA!
 
 ## Data Structure
 
 ```
-data/  
- └──csv_pkl_files/  
-    ├──Human_MHC_data.fasta    Human MHC reference sequences parsed from https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/hla_prot.fasta  
-    ├──NonHuman_MHC_data.fasta Non-Human MHC reference sequences parsed from https://raw.githubusercontent.com/ANHIG/IPDMHC/Latest/MHC_prot.fasta  
-    └──database.tar.xz PANDORA database object. To be uncompressed (as explained in this README) before usage.  
+default/
+ ├──Human_MHC_data.fasta       Human MHC reference sequences parsed from https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/hla_prot.fasta  
+ ├──NonHuman_MHC_data.fasta    Non-Human MHC reference sequences parsed from https://raw.githubusercontent.com/ANHIG/IPDMHC/Latest/MHC_prot.fasta  
+ ├──database.tar.xz            PANDORA database object. To be uncompressed (as explained in this README) before usage.  
  └──PDBs/  
-    └──pMHCI/   Collection of pMHCI template structures. The same structures have been used for the manuscript benchmark experiment as cross validation targets.  
+    └──pMHCI/                  Collection of pMHCI template structures. The same structures have been used for the manuscript benchmark experiment as cross validation targets.  
 ```
