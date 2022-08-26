@@ -24,11 +24,11 @@
 3) Copy the folder `default/` inside your PANDORA installation (fill in <path_to_PANDORA>):
 
    ```
-   cp -r ./default path_to_PANDORA/Databases/
+   cp -r ./default <path_to_PANDORA>/Databases/
    ```
    OR move the folder inside your PANDORA installation:
    ```
-   mv -r ./default path_to_PANDORA/Databases/
+   mv -r ./default <path_to_PANDORA>/Databases/
    ```
    
 5) Repath your database:
@@ -40,8 +40,8 @@
    ```python
    from PANDORA.Database import Database
 
-   db = Database.load('path_to_PANDORA/Databases/default/db.pkl')
-   db.repath('absolute_path_to_PANDORA/Databases/default/PDBs', save='path_to_PANDORA/Databases/default/db_repath.pkl')
+   db = Database.load('<path_to_PANDORA>/Databases/default/db.pkl')
+   db.repath('<absolute_path_to_PANDORA>/Databases/default/PDBs', save='<path_to_PANDORA>/Databases/default/db_repath.pkl')
    ```
    
 6) Enjoy using PANDORA!
