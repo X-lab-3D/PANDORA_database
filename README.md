@@ -4,16 +4,25 @@
 
 
 1) Clone this repository with git:
+
    ```
    git clone https://github.com/X-lab-3D/PANDORA_database.git
    ```
    
-2) Uncompress the database file:
+2) Move to the PANDORA_database folder you just cloned:
+
+   ```
+   cd PANDORA_database
+   ```
+
+3) Uncompress the database file:
+
    ```
    tar -xvf ./default/database.tar.xz -C ./default/
    ```
 
-3) Copy the folder `default/` inside your PANDORA installation:
+3) Copy the folder `default/` inside your PANDORA installation (fill in <path_to_PANDORA>):
+
    ```
    cp -r ./default path_to_PANDORA/Databases/
    ```
@@ -22,18 +31,20 @@
    mv -r ./default path_to_PANDORA/Databases/
    ```
    
-4) Repath your database:
+5) Repath your database:
 
    To properly use the database object, you need to specify the absolute path to the PDB template structures.
    You can either do it every time you load the database or do it just once and save it to a new database (as shown below).
    Use in python 3:
-   ```
+   
+   ```python
    from PANDORA.Database import Database
 
    db = Database.load('path_to_PANDORA/Databases/default/db.pkl')
    db.repath('absolute_path_to_PANDORA/Databases/default/PDBs', save='path_to_PANDORA/Databases/default/db_repath.pkl')
    ```
-5) Enjoy using PANDORA!
+   
+6) Enjoy using PANDORA!
 
 ## Data Structure
 
