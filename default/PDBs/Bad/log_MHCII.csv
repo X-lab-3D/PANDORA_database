@@ -1,0 +1,1916 @@
+ID,error
+1A6A,Failed, MHC structure is bound to CLIP peptide
+1A6A,Removed
+1D5M,Failed, Non canonical residues in the peptide chain
+1H15,Failed, MHC structure is bound to CLIP peptide
+1D5M,Removed
+1H15,Removed
+1D5Z,Failed, Non canonical residues in the peptide chain
+1D5Z,Removed
+1D5X,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:179; B:183; C:223; D:6
+1D5X,Removed
+1HDM,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:184; B:183
+1D6E,Failed, Non canonical residues in the peptide chain
+1D6E,Removed
+1HDM,Removed
+1ES0,Warning, Successfully cut merged peptide from MHC chain
+1FNG,Warning, Successfully cut merged peptide from MHC chain
+1FNG,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:186; C:182; D:186; E:27; F:27
+1FNG,Removed
+1IEA,Warning, Successfully cut merged peptide from MHC chain
+1K8I,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:181; B:190
+1IEA,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; E:29; F:29
+1K8I,Removed
+1IEA,Removed
+1FNE,Warning, Successfully cut merged peptide from MHC chain
+1MUJ,Failed, MHC structure is bound to CLIP peptide
+1FNE,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:186; C:182; D:186; E:27; F:27
+1FNE,Removed
+1MUJ,Removed
+1IEB,Warning, Successfully cut merged peptide from MHC chain
+1IEB,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; 1:1; 2:1; E:29; F:29
+1IEB,Removed
+1KTD,Warning, Successfully cut merged peptide from MHC chain
+1KTD,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; E:30; F:30
+1KTD,Removed
+1PYW,Failed, Non canonical residues in the peptide chain
+1PYW,Removed
+1I3R,Warning, Successfully cut merged peptide from MHC chain
+1I3R,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:187; C:182; D:187; E:182; F:187; G:182; H:187; 1:2; 2:2; 3:2; 4:2; I:29; J:29; K:29; L:29
+1I3R,Removed
+1KT2,Warning, Successfully cut merged peptide from MHC chain
+1KT2,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; 1:2; E:28; F:28
+1KT2,Removed
+1JL4,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1SEB,Failed, Non canonical residues in the peptide chain
+1SEB,Removed
+1KLG,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1KLU,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1JWM,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1LNU,Warning, Successfully cut merged peptide from MHC chain
+1LNU,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:187; C:182; D:187; E:182; F:187; G:182; H:187; 1:1; I:30; J:30; K:30; L:30
+1LNU,Removed
+1J8H,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+2BC4,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:191; C:195; D:197; 1:4; 2:4
+2BC4,Removed
+1R5V,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1UVQ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+2IAD,Warning, Successfully cut merged peptide from MHC chain
+2IPK,Failed, Non canonical residues in the peptide chain
+2IPK,Removed
+2XN9,Failed, MHC structure is bound to CLIP peptide
+2XN9,Removed
+2WBJ,Failed, MHC structure is bound to CLIP peptide
+2WBJ,Removed
+3L6F,Warning, Changed PTM residues into normal residues: SEP -> SER
+3PDO,Failed, MHC structure is bound to CLIP peptide
+3PDO,Removed
+3PGD,Failed, MHC structure is bound to CLIP peptide
+3PGD,Removed
+3PGC,Failed, MHC structure is bound to CLIP peptide
+3PGC,Removed
+3QXD,Failed, MHC structure is bound to CLIP peptide
+3QXD,Removed
+1S9V,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+3C5Z,Warning, Successfully cut merged peptide from MHC chain
+2IAM,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3C6L,Warning, Successfully cut merged peptide from MHC chain
+1D9K,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1R5I,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+3RDT,Warning, Successfully cut merged peptide from MHC chain
+3WEX,Warning, Successfully cut merged peptide from MHC chain
+4MCZ,Failed, Non canonical residues in the peptide chain
+4MCZ,Removed
+3T0E,Warning, Successfully cut merged peptide from MHC chain
+4MDI,Failed, Non canonical residues in the peptide chain
+4MDI,Removed
+4MD4,Failed, Non canonical residues in the peptide chain
+4MD4,Removed
+4FQX,Failed, HLA-DM or H2-DM chaperone protein is involved.
+4FQX,Removed
+3LQZ,Warning, Successfully cut merged peptide from MHC chain
+2OJE,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4MD0,Failed, Non canonical residues in the peptide chain
+4MD0,Removed
+4MD5,Failed, Non canonical residues in the peptide chain
+4MD5,Removed
+3QIB,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4X5W,Failed, MHC structure is bound to CLIP peptide
+4X5W,Removed
+3QIW,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4X5X,Failed, MHC structure is bound to CLIP peptide
+4X5X,Removed
+4P57,Warning, Successfully cut merged peptide from MHC chain
+4P4K,Warning, Successfully cut merged peptide from MHC chain
+4MCY,Failed, Non canonical residues in the peptide chain
+4MCY,Removed
+4MDJ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4MDJ,Removed
+3QXA,Failed, MHC structure is bound to CLIP peptide
+3QXA,Removed
+5KSU,Failed, MHC structure is bound to CLIP peptide
+5KSU,Removed
+4P5M,Warning, Successfully cut merged peptide from MHC chain
+4GBX,Failed, HLA-DM or H2-DM chaperone protein is involved.
+4GBX,Removed
+5KSV,Failed, MHC structure is bound to CLIP peptide
+5KSV,Removed
+5JLZ,Failed, Non canonical residues in the peptide chain
+5JLZ,Removed
+5NIG,Failed, Non canonical residues in the peptide chain
+5NIG,Removed
+6BIJ,Failed, Non canonical residues in the peptide chain
+6BIJ,Removed
+6ATZ,Failed, Non canonical residues in the peptide chain
+6ATZ,Removed
+6BIL,Failed, Non canonical residues in the peptide chain
+6BIL,Removed
+6BIN,Removed
+4P2O,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6BIR,Failed, Non canonical residues in the peptide chain
+6BIR,Removed
+4I0P,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:186; C:181; D:188; E:188; F:187; G:181; H:189; 1:1
+4I0P,Removed
+1ZGL,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3USA,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:191; C:181; D:189; E:188; F:191; G:181; H:189; 1:2; 2:2; 3:3; 4:2; 5:3; 6:2
+3USA,Removed
+6BIV,Failed, Non canonical residues in the peptide chain
+6BIV,Removed
+6BGA,Warning, Successfully cut merged peptide from MHC chain
+3QIU,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3CUP,Warning, Successfully cut merged peptide from MHC chain
+4P4K,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6BIX,Failed, Non canonical residues in the peptide chain
+6BIX,Removed
+4AH2,Failed, MHC structure is bound to CLIP peptide
+4AH2,Removed
+6BLQ,Warning, Successfully cut merged peptide from MHC chain
+3MBE,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+5V4M,Warning, Successfully cut merged peptide from MHC chain
+3C60,Warning, Successfully cut merged peptide from MHC chain
+5LAX,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4Y1A,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4P5K,Warning, Successfully cut merged peptide from MHC chain
+4P23,Warning, Successfully cut merged peptide from MHC chain
+6BLQ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4P4R,Warning, Successfully cut merged peptide from MHC chain
+6ATF,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6BIZ,Failed, Non canonical residues in the peptide chain
+6BIZ,Removed
+6BLX,Warning, Successfully cut merged peptide from MHC chain
+6CPL,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4H25,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6MKD,Warning, Successfully cut merged peptide from MHC chain
+6MFF,Warning, Successfully cut merged peptide from MHC chain
+3O6F,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:178; B:195; C:191; D:245; E:179; F:210; G:188; H:243
+3O6F,Removed
+6MNG,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: C:174; D:193; A:199; B:239
+6MNG,Removed
+6CQL,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6MNN,Warning, Successfully cut merged peptide from MHC chain
+6BLX,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+5NI9,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6MNM,Warning, Successfully cut merged peptide from MHC chain
+6ATI,Failed, Non canonical residues in the peptide chain
+6ATI,Removed
+5DMK,Warning, Successfully cut merged peptide from MHC chain
+6DFX,Warning, Successfully cut merged peptide from MHC chain
+6V13,Failed, Non canonical residues in the peptide chain
+6V13,Removed
+6MKR,Warning, Successfully cut merged peptide from MHC chain
+6V1A,Failed, Non canonical residues in the peptide chain
+6V1A,Removed
+6V18,Failed, Non canonical residues in the peptide chain
+6V18,Removed
+6HBY,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4E41,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+5KS9,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6XCO,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:195; D:187; E:238
+6XCO,Removed
+6V15,Failed, Non canonical residues in the peptide chain
+6V15,Removed
+6MFG,Warning, Successfully cut merged peptide from MHC chain
+4P5T,Warning, Successfully cut merged peptide from MHC chain
+6V19,Failed, Non canonical residues in the peptide chain
+6V19,Removed
+6XCP,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; C:200; D:188; E:239
+6XCP,Removed
+6MNO,Warning, Successfully cut merged peptide from MHC chain
+6XC9,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:184; C:198; D:203; E:244; F:182; H:196; I:204; J:244; B:3; G:3
+6XC9,Removed
+6DFW,Warning, Successfully cut merged peptide from MHC chain
+6T3Y,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:183; B:196
+6T3Y,Removed
+6U3M,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+5V4N,Warning, Successfully cut merged peptide from MHC chain
+6CQR,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+7N19,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6XP6,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4P2Q,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6V0Y,Failed, Non canonical residues in the peptide chain
+6V0Y,Removed
+6DIG,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4P46,Warning, Successfully cut merged peptide from MHC chain
+7KEI,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+1A6A,Failed, MHC structure is bound to CLIP peptide
+1A6A,Removed
+1D6E,Failed, Non canonical residues in the peptide chain
+1D6E,Removed
+1H15,Failed, MHC structure is bound to CLIP peptide
+1H15,Removed
+1D5X,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:179; B:183; C:223; D:6
+1D5X,Removed
+1ES0,Warning, Successfully cut merged peptide from MHC chain
+1D5Z,Failed, Non canonical residues in the peptide chain
+1D5Z,Removed
+1D5M,Failed, Non canonical residues in the peptide chain
+1D5M,Removed
+1HDM,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:184; B:183
+1HDM,Removed
+1FNE,Warning, Successfully cut merged peptide from MHC chain
+1FNE,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:186; C:182; D:186; E:27; F:27
+1FNE,Removed
+1MUJ,Failed, MHC structure is bound to CLIP peptide
+1MUJ,Removed
+1K8I,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:181; B:190
+1K8I,Removed
+1FNG,Warning, Successfully cut merged peptide from MHC chain
+1FNG,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:186; C:182; D:186; E:27; F:27
+1FNG,Removed
+1IEA,Warning, Successfully cut merged peptide from MHC chain
+1IEA,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; E:29; F:29
+1IEA,Removed
+1KT2,Warning, Successfully cut merged peptide from MHC chain
+1KT2,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; 1:2; E:28; F:28
+1KT2,Removed
+1IEB,Warning, Successfully cut merged peptide from MHC chain
+1IEB,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; 1:1; 2:1; E:29; F:29
+1IEB,Removed
+1PYW,Failed, Non canonical residues in the peptide chain
+1PYW,Removed
+1KTD,Warning, Successfully cut merged peptide from MHC chain
+1KTD,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; E:30; F:30
+1KTD,Removed
+1I3R,Warning, Successfully cut merged peptide from MHC chain
+1I3R,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:187; C:182; D:187; E:182; F:187; G:182; H:187; 1:2; 2:2; 3:2; 4:2; I:29; J:29; K:29; L:29
+1I3R,Removed
+1JL4,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1SEB,Failed, Non canonical residues in the peptide chain
+1SEB,Removed
+1LNU,Warning, Successfully cut merged peptide from MHC chain
+1LNU,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:187; C:182; D:187; E:182; F:187; G:182; H:187; 1:1; I:30; J:30; K:30; L:30
+1LNU,Removed
+1KLU,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1UVQ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+1J8H,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1KLG,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1R5V,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+2BC4,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:191; C:195; D:197; 1:4; 2:4
+2BC4,Removed
+2IAD,Warning, Successfully cut merged peptide from MHC chain
+1JWM,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+2IPK,Failed, Non canonical residues in the peptide chain
+2IPK,Removed
+1D9K,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+2WBJ,Failed, MHC structure is bound to CLIP peptide
+2WBJ,Removed
+2XN9,Failed, MHC structure is bound to CLIP peptide
+2XN9,Removed
+3L6F,Warning, Changed PTM residues into normal residues: SEP -> SER
+3PDO,Failed, MHC structure is bound to CLIP peptide
+3PDO,Removed
+3PGD,Failed, MHC structure is bound to CLIP peptide
+3PGD,Removed
+3PGC,Failed, MHC structure is bound to CLIP peptide
+3PGC,Removed
+3QXD,Failed, MHC structure is bound to CLIP peptide
+3QXD,Removed
+1S9V,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+3C6L,Warning, Successfully cut merged peptide from MHC chain
+2IAM,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3RDT,Warning, Successfully cut merged peptide from MHC chain
+3C5Z,Warning, Successfully cut merged peptide from MHC chain
+4MCZ,Failed, Non canonical residues in the peptide chain
+4MCZ,Removed
+4MD4,Failed, Non canonical residues in the peptide chain
+4MD4,Removed
+4MD0,Failed, Non canonical residues in the peptide chain
+4MD0,Removed
+1R5I,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+3T0E,Warning, Successfully cut merged peptide from MHC chain
+3WEX,Warning, Successfully cut merged peptide from MHC chain
+4MDI,Failed, Non canonical residues in the peptide chain
+4MDI,Removed
+3LQZ,Warning, Successfully cut merged peptide from MHC chain
+4MD5,Failed, Non canonical residues in the peptide chain
+4MD5,Removed
+4X5W,Failed, MHC structure is bound to CLIP peptide
+4X5W,Removed
+3QIW,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4X5X,Failed, MHC structure is bound to CLIP peptide
+4X5X,Removed
+4P57,Warning, Successfully cut merged peptide from MHC chain
+3QIB,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4FQX,Failed, HLA-DM or H2-DM chaperone protein is involved.
+4FQX,Removed
+3QXA,Failed, MHC structure is bound to CLIP peptide
+3QXA,Removed
+4P4K,Warning, Successfully cut merged peptide from MHC chain
+2OJE,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4MDJ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4MDJ,Removed
+4P2O,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+5KSU,Failed, MHC structure is bound to CLIP peptide
+5KSU,Removed
+5JLZ,Failed, Non canonical residues in the peptide chain
+5JLZ,Removed
+4I0P,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:186; C:181; D:188; E:188; F:187; G:181; H:189; 1:1
+4I0P,Removed
+4P5M,Warning, Successfully cut merged peptide from MHC chain
+5KSV,Failed, MHC structure is bound to CLIP peptide
+5KSV,Removed
+5NIG,Failed, Non canonical residues in the peptide chain
+5NIG,Removed
+1ZGL,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4MCY,Failed, Non canonical residues in the peptide chain
+4MCY,Removed
+6BIN,Removed
+6BIJ,Failed, Non canonical residues in the peptide chain
+6BIJ,Removed
+6ATZ,Failed, Non canonical residues in the peptide chain
+6ATZ,Removed
+4P5K,Warning, Successfully cut merged peptide from MHC chain
+6BIV,Failed, Non canonical residues in the peptide chain
+6BIV,Removed
+6BIR,Failed, Non canonical residues in the peptide chain
+6BIR,Removed
+6BIL,Failed, Non canonical residues in the peptide chain
+6BIL,Removed
+3CUP,Warning, Successfully cut merged peptide from MHC chain
+6BIX,Failed, Non canonical residues in the peptide chain
+6BIX,Removed
+6BLQ,Warning, Successfully cut merged peptide from MHC chain
+5V4M,Warning, Successfully cut merged peptide from MHC chain
+3QIU,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4H25,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4GBX,Failed, HLA-DM or H2-DM chaperone protein is involved.
+4GBX,Removed
+3USA,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:191; C:181; D:189; E:188; F:191; G:181; H:189; 1:2; 2:2; 3:3; 4:2; 5:3; 6:2
+3USA,Removed
+4AH2,Failed, MHC structure is bound to CLIP peptide
+4AH2,Removed
+6BGA,Warning, Successfully cut merged peptide from MHC chain
+6CPL,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6BLQ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+3MBE,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+5LAX,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6BIZ,Failed, Non canonical residues in the peptide chain
+6BIZ,Removed
+6ATF,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6MFF,Warning, Successfully cut merged peptide from MHC chain
+3C60,Warning, Successfully cut merged peptide from MHC chain
+6MKD,Warning, Successfully cut merged peptide from MHC chain
+6BLX,Warning, Successfully cut merged peptide from MHC chain
+6MNG,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: C:174; D:193; A:199; B:239
+6MNG,Removed
+4P4K,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+3O6F,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:178; B:195; C:191; D:245; E:179; F:210; G:188; H:243
+3O6F,Removed
+6MNM,Warning, Successfully cut merged peptide from MHC chain
+6ATI,Failed, Non canonical residues in the peptide chain
+6ATI,Removed
+4Y1A,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6MNN,Warning, Successfully cut merged peptide from MHC chain
+6MFG,Warning, Successfully cut merged peptide from MHC chain
+6HBY,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6BLX,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4P4R,Warning, Successfully cut merged peptide from MHC chain
+6DFX,Warning, Successfully cut merged peptide from MHC chain
+4P23,Warning, Successfully cut merged peptide from MHC chain
+5NI9,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6CQL,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6MKR,Warning, Successfully cut merged peptide from MHC chain
+5DMK,Warning, Successfully cut merged peptide from MHC chain
+6V13,Failed, Non canonical residues in the peptide chain
+6V13,Removed
+5KS9,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6V18,Failed, Non canonical residues in the peptide chain
+6V18,Removed
+6MNO,Warning, Successfully cut merged peptide from MHC chain
+6XCO,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:195; D:187; E:238
+6XCO,Removed
+6V1A,Failed, Non canonical residues in the peptide chain
+6V1A,Removed
+4P5T,Warning, Successfully cut merged peptide from MHC chain
+6V15,Failed, Non canonical residues in the peptide chain
+6V15,Removed
+6V19,Failed, Non canonical residues in the peptide chain
+6V19,Removed
+5V4N,Warning, Successfully cut merged peptide from MHC chain
+6T3Y,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:183; B:196
+6T3Y,Removed
+6XCP,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; C:200; D:188; E:239
+6XCP,Removed
+6U3M,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6CQR,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6DFW,Warning, Successfully cut merged peptide from MHC chain
+6XC9,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:184; C:198; D:203; E:244; F:182; H:196; I:204; J:244; B:3; G:3
+6XC9,Removed
+4E41,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4P2Q,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4P46,Warning, Successfully cut merged peptide from MHC chain
+6V0Y,Failed, Non canonical residues in the peptide chain
+6V0Y,Removed
+6DIG,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6XP6,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+7N19,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+7KEI,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+1A6A,Failed, MHC structure is bound to CLIP peptide
+1A6A,Removed
+1D5M,Failed, Non canonical residues in the peptide chain
+1D5M,Removed
+1D5X,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:179; B:183; C:223; D:6
+1D5X,Removed
+1H15,Failed, MHC structure is bound to CLIP peptide
+1H15,Removed
+1ES0,Warning, Successfully cut merged peptide from MHC chain
+1D5Z,Failed, Non canonical residues in the peptide chain
+1D5Z,Removed
+1D6E,Failed, Non canonical residues in the peptide chain
+1D6E,Removed
+1HDM,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:184; B:183
+1HDM,Removed
+1FNE,Warning, Successfully cut merged peptide from MHC chain
+1FNE,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:186; C:182; D:186; E:27; F:27
+1FNE,Removed
+1K8I,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:181; B:190
+1K8I,Removed
+1FNG,Warning, Successfully cut merged peptide from MHC chain
+1FNG,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:186; C:182; D:186; E:27; F:27
+1FNG,Removed
+1MUJ,Failed, MHC structure is bound to CLIP peptide
+1MUJ,Removed
+1IEB,Warning, Successfully cut merged peptide from MHC chain
+1IEB,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; 1:1; 2:1; E:29; F:29
+1IEB,Removed
+1IEA,Warning, Successfully cut merged peptide from MHC chain
+1IEA,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; E:29; F:29
+1IEA,Removed
+1KT2,Warning, Successfully cut merged peptide from MHC chain
+1KT2,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; 1:2; E:28; F:28
+1KT2,Removed
+1KTD,Warning, Successfully cut merged peptide from MHC chain
+1KTD,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; E:30; F:30
+1KTD,Removed
+1I3R,Warning, Successfully cut merged peptide from MHC chain
+1I3R,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:187; C:182; D:187; E:182; F:187; G:182; H:187; 1:2; 2:2; 3:2; 4:2; I:29; J:29; K:29; L:29
+1I3R,Removed
+1PYW,Failed, Non canonical residues in the peptide chain
+1PYW,Removed
+1LNU,Warning, Successfully cut merged peptide from MHC chain
+1LNU,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:187; C:182; D:187; E:182; F:187; G:182; H:187; 1:1; I:30; J:30; K:30; L:30
+1LNU,Removed
+1SEB,Failed, Non canonical residues in the peptide chain
+1SEB,Removed
+1JL4,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+2IAD,Warning, Successfully cut merged peptide from MHC chain
+1KLU,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+2BC4,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:191; C:195; D:197; 1:4; 2:4
+2BC4,Removed
+1JWM,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+2IPK,Failed, Non canonical residues in the peptide chain
+2IPK,Removed
+1KLG,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1R5V,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+2WBJ,Failed, MHC structure is bound to CLIP peptide
+2WBJ,Removed
+2XN9,Failed, MHC structure is bound to CLIP peptide
+2XN9,Removed
+1D9K,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3L6F,Warning, Changed PTM residues into normal residues: SEP -> SER
+1UVQ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+3PDO,Failed, MHC structure is bound to CLIP peptide
+3PDO,Removed
+1J8H,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3PGD,Failed, MHC structure is bound to CLIP peptide
+3PGD,Removed
+3PGC,Failed, MHC structure is bound to CLIP peptide
+3PGC,Removed
+1S9V,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+3QXD,Failed, MHC structure is bound to CLIP peptide
+3QXD,Removed
+3C5Z,Warning, Successfully cut merged peptide from MHC chain
+3C6L,Warning, Successfully cut merged peptide from MHC chain
+2IAM,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4MCZ,Failed, Non canonical residues in the peptide chain
+4MCZ,Removed
+3LQZ,Warning, Successfully cut merged peptide from MHC chain
+3WEX,Warning, Successfully cut merged peptide from MHC chain
+4MDI,Failed, Non canonical residues in the peptide chain
+4MDI,Removed
+3RDT,Warning, Successfully cut merged peptide from MHC chain
+4MD4,Failed, Non canonical residues in the peptide chain
+4MD4,Removed
+3T0E,Warning, Successfully cut merged peptide from MHC chain
+1R5I,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4MD0,Failed, Non canonical residues in the peptide chain
+4MD0,Removed
+4MD5,Failed, Non canonical residues in the peptide chain
+4MD5,Removed
+4X5W,Failed, MHC structure is bound to CLIP peptide
+4X5W,Removed
+3QIB,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4X5X,Failed, MHC structure is bound to CLIP peptide
+4X5X,Removed
+3QIW,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4MDJ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4MDJ,Removed
+4P57,Warning, Successfully cut merged peptide from MHC chain
+5KSU,Failed, MHC structure is bound to CLIP peptide
+5KSU,Removed
+2OJE,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+5KSV,Failed, MHC structure is bound to CLIP peptide
+5KSV,Removed
+4FQX,Failed, HLA-DM or H2-DM chaperone protein is involved.
+4FQX,Removed
+4P5M,Warning, Successfully cut merged peptide from MHC chain
+3QXA,Failed, MHC structure is bound to CLIP peptide
+3QXA,Removed
+5JLZ,Failed, Non canonical residues in the peptide chain
+5JLZ,Removed
+4P4K,Warning, Successfully cut merged peptide from MHC chain
+4MCY,Failed, Non canonical residues in the peptide chain
+5NIG,Failed, Non canonical residues in the peptide chain
+4MCY,Removed
+5NIG,Removed
+6BIJ,Failed, Non canonical residues in the peptide chain
+6BIJ,Removed
+6BIN,Removed
+6BIL,Failed, Non canonical residues in the peptide chain
+6BIL,Removed
+6BIV,Failed, Non canonical residues in the peptide chain
+6BIV,Removed
+6BIR,Failed, Non canonical residues in the peptide chain
+6BIR,Removed
+3C60,Warning, Successfully cut merged peptide from MHC chain
+6ATZ,Failed, Non canonical residues in the peptide chain
+6ATZ,Removed
+5LAX,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4P2O,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6BIX,Failed, Non canonical residues in the peptide chain
+6BIX,Removed
+4I0P,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:186; C:181; D:188; E:188; F:187; G:181; H:189; 1:1
+4I0P,Removed
+3MBE,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3QIU,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6BLQ,Warning, Successfully cut merged peptide from MHC chain
+5V4M,Warning, Successfully cut merged peptide from MHC chain
+4AH2,Failed, MHC structure is bound to CLIP peptide
+4AH2,Removed
+3CUP,Warning, Successfully cut merged peptide from MHC chain
+6ATF,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6BGA,Warning, Successfully cut merged peptide from MHC chain
+3USA,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:191; C:181; D:189; E:188; F:191; G:181; H:189; 1:2; 2:2; 3:3; 4:2; 5:3; 6:2
+3USA,Removed
+4GBX,Failed, HLA-DM or H2-DM chaperone protein is involved.
+4GBX,Removed
+6BIZ,Failed, Non canonical residues in the peptide chain
+6BIZ,Removed
+4P5K,Warning, Successfully cut merged peptide from MHC chain
+5NI9,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6CPL,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6BLQ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4P4K,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+3O6F,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:178; B:195; C:191; D:245; E:179; F:210; G:188; H:243
+3O6F,Removed
+6ATI,Failed, Non canonical residues in the peptide chain
+6ATI,Removed
+5KS9,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6MFF,Warning, Successfully cut merged peptide from MHC chain
+6BLX,Warning, Successfully cut merged peptide from MHC chain
+1ZGL,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6MNG,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: C:174; D:193; A:199; B:239
+6MNG,Removed
+6MKD,Warning, Successfully cut merged peptide from MHC chain
+4P4R,Warning, Successfully cut merged peptide from MHC chain
+4H25,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6MNN,Warning, Successfully cut merged peptide from MHC chain
+4Y1A,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6MNM,Warning, Successfully cut merged peptide from MHC chain
+6DFX,Warning, Successfully cut merged peptide from MHC chain
+6CQL,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6BLX,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4P23,Warning, Successfully cut merged peptide from MHC chain
+6HBY,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4P5T,Warning, Successfully cut merged peptide from MHC chain
+4E41,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6V13,Failed, Non canonical residues in the peptide chain
+6V13,Removed
+6MFG,Warning, Successfully cut merged peptide from MHC chain
+6V1A,Failed, Non canonical residues in the peptide chain
+6V1A,Removed
+6V18,Failed, Non canonical residues in the peptide chain
+6V18,Removed
+6XCO,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:195; D:187; E:238
+6XCO,Removed
+5DMK,Warning, Successfully cut merged peptide from MHC chain
+6MNO,Warning, Successfully cut merged peptide from MHC chain
+6V15,Failed, Non canonical residues in the peptide chain
+6V15,Removed
+6V19,Failed, Non canonical residues in the peptide chain
+6V19,Removed
+6DFW,Warning, Successfully cut merged peptide from MHC chain
+6MKR,Warning, Successfully cut merged peptide from MHC chain
+6CQR,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+5V4N,Warning, Successfully cut merged peptide from MHC chain
+6XCP,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; C:200; D:188; E:239
+6XCP,Removed
+6U3M,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6T3Y,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:183; B:196
+6T3Y,Removed
+6XC9,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:184; C:198; D:203; E:244; F:182; H:196; I:204; J:244; B:3; G:3
+6XC9,Removed
+4P46,Warning, Successfully cut merged peptide from MHC chain
+6DIG,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6V0Y,Failed, Non canonical residues in the peptide chain
+7N19,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6V0Y,Removed
+6XP6,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4P2Q,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+7KEI,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+1A6A,Failed, MHC structure is bound to CLIP peptide
+1A6A,Removed
+1ES0,Warning, Successfully cut merged peptide from MHC chain
+1H15,Failed, MHC structure is bound to CLIP peptide
+1H15,Removed
+1D5M,Failed, Non canonical residues in the peptide chain
+1D5M,Removed
+1D6E,Failed, Non canonical residues in the peptide chain
+1D6E,Removed
+1D5X,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:179; B:183; C:223; D:6
+1D5X,Removed
+1D5Z,Failed, Non canonical residues in the peptide chain
+1D5Z,Removed
+1HDM,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:184; B:183
+1HDM,Removed
+1IEA,Warning, Successfully cut merged peptide from MHC chain
+1IEA,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; E:29; F:29
+1MUJ,Failed, MHC structure is bound to CLIP peptide
+1IEA,Removed
+1MUJ,Removed
+1FNG,Warning, Successfully cut merged peptide from MHC chain
+1FNG,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:186; C:182; D:186; E:27; F:27
+1FNG,Removed
+1FNE,Warning, Successfully cut merged peptide from MHC chain
+1FNE,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:186; C:182; D:186; E:27; F:27
+1FNE,Removed
+1K8I,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:181; B:190
+1K8I,Removed
+1IEB,Warning, Successfully cut merged peptide from MHC chain
+1IEB,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; 1:1; 2:1; E:29; F:29
+1IEB,Removed
+1KT2,Warning, Successfully cut merged peptide from MHC chain
+1KT2,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; 1:2; E:28; F:28
+1KT2,Removed
+1PYW,Failed, Non canonical residues in the peptide chain
+1PYW,Removed
+1KTD,Warning, Successfully cut merged peptide from MHC chain
+1KTD,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; E:30; F:30
+1KTD,Removed
+1SEB,Failed, Non canonical residues in the peptide chain
+1SEB,Removed
+1I3R,Warning, Successfully cut merged peptide from MHC chain
+1I3R,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:187; C:182; D:187; E:182; F:187; G:182; H:187; 1:2; 2:2; 3:2; 4:2; I:29; J:29; K:29; L:29
+1I3R,Removed
+1LNU,Warning, Successfully cut merged peptide from MHC chain
+1LNU,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:187; C:182; D:187; E:182; F:187; G:182; H:187; 1:1; I:30; J:30; K:30; L:30
+1LNU,Removed
+1KLU,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1KLG,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1JWM,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+2IAD,Warning, Successfully cut merged peptide from MHC chain
+1UVQ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+1JL4,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+2BC4,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:191; C:195; D:197; 1:4; 2:4
+2BC4,Removed
+1S9V,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+2XN9,Failed, MHC structure is bound to CLIP peptide
+2XN9,Removed
+2IPK,Failed, Non canonical residues in the peptide chain
+2IPK,Removed
+2WBJ,Failed, MHC structure is bound to CLIP peptide
+2WBJ,Removed
+1J8H,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3L6F,Warning, Changed PTM residues into normal residues: SEP -> SER
+3PDO,Failed, MHC structure is bound to CLIP peptide
+3PDO,Removed
+3PGD,Failed, MHC structure is bound to CLIP peptide
+3PGD,Removed
+3PGC,Failed, MHC structure is bound to CLIP peptide
+3PGC,Removed
+3QXD,Failed, MHC structure is bound to CLIP peptide
+3QXD,Removed
+1R5V,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3C6L,Warning, Successfully cut merged peptide from MHC chain
+2IAM,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1D9K,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3T0E,Warning, Successfully cut merged peptide from MHC chain
+3C5Z,Warning, Successfully cut merged peptide from MHC chain
+3WEX,Warning, Successfully cut merged peptide from MHC chain
+3RDT,Warning, Successfully cut merged peptide from MHC chain
+1R5I,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+3QIW,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3LQZ,Warning, Successfully cut merged peptide from MHC chain
+4MCZ,Failed, Non canonical residues in the peptide chain
+4MCZ,Removed
+4MD4,Failed, Non canonical residues in the peptide chain
+4MD4,Removed
+4MDI,Failed, Non canonical residues in the peptide chain
+4MDI,Removed
+4MD5,Failed, Non canonical residues in the peptide chain
+4MD5,Removed
+4MD0,Failed, Non canonical residues in the peptide chain
+4MD0,Removed
+3QXA,Failed, MHC structure is bound to CLIP peptide
+3QXA,Removed
+4X5W,Failed, MHC structure is bound to CLIP peptide
+4X5W,Removed
+4X5X,Failed, MHC structure is bound to CLIP peptide
+4X5X,Removed
+3QIB,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4P57,Warning, Successfully cut merged peptide from MHC chain
+4P4K,Warning, Successfully cut merged peptide from MHC chain
+4FQX,Failed, HLA-DM or H2-DM chaperone protein is involved.
+4FQX,Removed
+4P5M,Warning, Successfully cut merged peptide from MHC chain
+2OJE,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+5KSU,Failed, MHC structure is bound to CLIP peptide
+5KSU,Removed
+4I0P,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:186; C:181; D:188; E:188; F:187; G:181; H:189; 1:1
+4I0P,Removed
+3USA,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:191; C:181; D:189; E:188; F:191; G:181; H:189; 1:2; 2:2; 3:3; 4:2; 5:3; 6:2
+3USA,Removed
+5KSV,Failed, MHC structure is bound to CLIP peptide
+5KSV,Removed
+4MDJ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+5JLZ,Failed, Non canonical residues in the peptide chain
+4MDJ,Removed
+5JLZ,Removed
+5NIG,Failed, Non canonical residues in the peptide chain
+5NIG,Removed
+3CUP,Warning, Successfully cut merged peptide from MHC chain
+6BIJ,Failed, Non canonical residues in the peptide chain
+6BIJ,Removed
+6BIN,Removed
+4MCY,Failed, Non canonical residues in the peptide chain
+4MCY,Removed
+4P2O,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6BIL,Failed, Non canonical residues in the peptide chain
+6BIL,Removed
+6BIR,Failed, Non canonical residues in the peptide chain
+6BIR,Removed
+6BIV,Failed, Non canonical residues in the peptide chain
+6BIV,Removed
+3MBE,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6ATZ,Failed, Non canonical residues in the peptide chain
+6ATZ,Removed
+6BLQ,Warning, Successfully cut merged peptide from MHC chain
+6BIX,Failed, Non canonical residues in the peptide chain
+6BIX,Removed
+4P4K,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4GBX,Failed, HLA-DM or H2-DM chaperone protein is involved.
+4GBX,Removed
+5V4M,Warning, Successfully cut merged peptide from MHC chain
+4AH2,Failed, MHC structure is bound to CLIP peptide
+4AH2,Removed
+6BIZ,Failed, Non canonical residues in the peptide chain
+6BIZ,Removed
+3QIU,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4P4R,Warning, Successfully cut merged peptide from MHC chain
+4P23,Warning, Successfully cut merged peptide from MHC chain
+5LAX,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6BGA,Warning, Successfully cut merged peptide from MHC chain
+4P5K,Warning, Successfully cut merged peptide from MHC chain
+6BLQ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+1ZGL,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6CPL,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+3C60,Warning, Successfully cut merged peptide from MHC chain
+3O6F,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:178; B:195; C:191; D:245; E:179; F:210; G:188; H:243
+3O6F,Removed
+6ATF,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4P5T,Warning, Successfully cut merged peptide from MHC chain
+6BLX,Warning, Successfully cut merged peptide from MHC chain
+6DFX,Warning, Successfully cut merged peptide from MHC chain
+6MFF,Warning, Successfully cut merged peptide from MHC chain
+5NI9,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6MKD,Warning, Successfully cut merged peptide from MHC chain
+4H25,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6MNG,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: C:174; D:193; A:199; B:239
+6MNG,Removed
+6MNM,Warning, Successfully cut merged peptide from MHC chain
+6CQL,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6HBY,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6MNN,Warning, Successfully cut merged peptide from MHC chain
+6BLX,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+5KS9,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6ATI,Failed, Non canonical residues in the peptide chain
+6ATI,Removed
+5DMK,Warning, Successfully cut merged peptide from MHC chain
+4E41,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4Y1A,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6V18,Failed, Non canonical residues in the peptide chain
+6V18,Removed
+6V13,Failed, Non canonical residues in the peptide chain
+6V13,Removed
+6V1A,Failed, Non canonical residues in the peptide chain
+6V1A,Removed
+4P46,Warning, Successfully cut merged peptide from MHC chain
+6XCO,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:195; D:187; E:238
+6XCO,Removed
+6MFG,Warning, Successfully cut merged peptide from MHC chain
+6MKR,Warning, Successfully cut merged peptide from MHC chain
+6MNO,Warning, Successfully cut merged peptide from MHC chain
+6V19,Failed, Non canonical residues in the peptide chain
+6V19,Removed
+6CQR,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+5V4N,Warning, Successfully cut merged peptide from MHC chain
+6V15,Failed, Non canonical residues in the peptide chain
+6V15,Removed
+6T3Y,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:183; B:196
+6T3Y,Removed
+6XCP,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; C:200; D:188; E:239
+6XCP,Removed
+6DFW,Warning, Successfully cut merged peptide from MHC chain
+6U3M,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6DIG,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6XC9,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:184; C:198; D:203; E:244; F:182; H:196; I:204; J:244; B:3; G:3
+6XC9,Removed
+7N19,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6V0Y,Failed, Non canonical residues in the peptide chain
+6V0Y,Removed
+6XP6,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4P2Q,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+7KEI,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+1A6A,Failed, MHC structure is bound to CLIP peptide
+1A6A,Removed
+1D5M,Failed, Non canonical residues in the peptide chain
+1D5M,Removed
+1D5Z,Failed, Non canonical residues in the peptide chain
+1D5Z,Removed
+1D5X,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:179; B:183; C:223; D:6
+1D5X,Removed
+1H15,Failed, MHC structure is bound to CLIP peptide
+1H15,Removed
+1ES0,Warning, Successfully cut merged peptide from MHC chain
+1D6E,Failed, Non canonical residues in the peptide chain
+1D6E,Removed
+1HDM,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:184; B:183
+1HDM,Removed
+1FNE,Warning, Successfully cut merged peptide from MHC chain
+1FNE,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:186; C:182; D:186; E:27; F:27
+1FNE,Removed
+1FNG,Warning, Successfully cut merged peptide from MHC chain
+1FNG,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:186; C:182; D:186; E:27; F:27
+1FNG,Removed
+1K8I,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:181; B:190
+1K8I,Removed
+1IEB,Warning, Successfully cut merged peptide from MHC chain
+1IEB,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; 1:1; 2:1; E:29; F:29
+1IEB,Removed
+1MUJ,Failed, MHC structure is bound to CLIP peptide
+1MUJ,Removed
+1IEA,Warning, Successfully cut merged peptide from MHC chain
+1IEA,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; E:29; F:29
+1IEA,Removed
+1KTD,Warning, Successfully cut merged peptide from MHC chain
+1KTD,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; E:30; F:30
+1KTD,Removed
+1KT2,Warning, Successfully cut merged peptide from MHC chain
+1KT2,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; 1:2; E:28; F:28
+1KT2,Removed
+1PYW,Failed, Non canonical residues in the peptide chain
+1PYW,Removed
+1I3R,Warning, Successfully cut merged peptide from MHC chain
+1I3R,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:187; C:182; D:187; E:182; F:187; G:182; H:187; 1:2; 2:2; 3:2; 4:2; I:29; J:29; K:29; L:29
+1I3R,Removed
+1SEB,Failed, Non canonical residues in the peptide chain
+1SEB,Removed
+1JWM,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1LNU,Warning, Successfully cut merged peptide from MHC chain
+1LNU,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:187; C:182; D:187; E:182; F:187; G:182; H:187; 1:1; I:30; J:30; K:30; L:30
+1LNU,Removed
+1KLU,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1JL4,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1UVQ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+2IAD,Warning, Successfully cut merged peptide from MHC chain
+1D9K,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1KLG,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+2IPK,Failed, Non canonical residues in the peptide chain
+2IPK,Removed
+2BC4,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:191; C:195; D:197; 1:4; 2:4
+2BC4,Removed
+1J8H,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+2XN9,Failed, MHC structure is bound to CLIP peptide
+2WBJ,Failed, MHC structure is bound to CLIP peptide
+2XN9,Removed
+2WBJ,Removed
+3L6F,Warning, Changed PTM residues into normal residues: SEP -> SER
+1R5V,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3PDO,Failed, MHC structure is bound to CLIP peptide
+3PDO,Removed
+3PGD,Failed, MHC structure is bound to CLIP peptide
+3PGD,Removed
+1S9V,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+3PGC,Failed, MHC structure is bound to CLIP peptide
+3PGC,Removed
+3QXD,Failed, MHC structure is bound to CLIP peptide
+3QXD,Removed
+3C5Z,Warning, Successfully cut merged peptide from MHC chain
+2IAM,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3C6L,Warning, Successfully cut merged peptide from MHC chain
+3WEX,Warning, Successfully cut merged peptide from MHC chain
+3LQZ,Warning, Successfully cut merged peptide from MHC chain
+4MCZ,Failed, Non canonical residues in the peptide chain
+4MCZ,Removed
+4MDI,Failed, Non canonical residues in the peptide chain
+4MDI,Removed
+3T0E,Warning, Successfully cut merged peptide from MHC chain
+3RDT,Warning, Successfully cut merged peptide from MHC chain
+4MD4,Failed, Non canonical residues in the peptide chain
+4MD4,Removed
+1R5I,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4MD0,Failed, Non canonical residues in the peptide chain
+4MD0,Removed
+4MD5,Failed, Non canonical residues in the peptide chain
+4MD5,Removed
+3QIB,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4X5W,Failed, MHC structure is bound to CLIP peptide
+4X5W,Removed
+3QIW,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4MDJ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4MDJ,Removed
+4X5X,Failed, MHC structure is bound to CLIP peptide
+4P57,Warning, Successfully cut merged peptide from MHC chain
+4X5X,Removed
+2OJE,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4FQX,Failed, HLA-DM or H2-DM chaperone protein is involved.
+4FQX,Removed
+4P4K,Warning, Successfully cut merged peptide from MHC chain
+3QXA,Failed, MHC structure is bound to CLIP peptide
+3QXA,Removed
+4I0P,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:186; C:181; D:188; E:188; F:187; G:181; H:189; 1:1
+4I0P,Removed
+5KSU,Failed, MHC structure is bound to CLIP peptide
+5KSU,Removed
+4P5M,Warning, Successfully cut merged peptide from MHC chain
+5JLZ,Failed, Non canonical residues in the peptide chain
+5JLZ,Removed
+4AH2,Failed, MHC structure is bound to CLIP peptide
+4AH2,Removed
+5KSV,Failed, MHC structure is bound to CLIP peptide
+5KSV,Removed
+5NIG,Failed, Non canonical residues in the peptide chain
+5NIG,Removed
+6BIN,Removed
+6BIJ,Failed, Non canonical residues in the peptide chain
+6BIJ,Removed
+6BIR,Failed, Non canonical residues in the peptide chain
+6BIR,Removed
+4MCY,Failed, Non canonical residues in the peptide chain
+4MCY,Removed
+6BIL,Failed, Non canonical residues in the peptide chain
+6BIL,Removed
+6BIV,Failed, Non canonical residues in the peptide chain
+6BIV,Removed
+4P2O,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4P5K,Warning, Successfully cut merged peptide from MHC chain
+6BLQ,Warning, Successfully cut merged peptide from MHC chain
+6ATZ,Failed, Non canonical residues in the peptide chain
+6ATZ,Removed
+5V4M,Warning, Successfully cut merged peptide from MHC chain
+3QIU,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6BIX,Failed, Non canonical residues in the peptide chain
+6BIX,Removed
+3C60,Warning, Successfully cut merged peptide from MHC chain
+3MBE,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4H25,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6CPL,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4P4K,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+5LAX,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6BLQ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+3USA,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:191; C:181; D:189; E:188; F:191; G:181; H:189; 1:2; 2:2; 3:3; 4:2; 5:3; 6:2
+3USA,Removed
+3CUP,Warning, Successfully cut merged peptide from MHC chain
+1ZGL,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4GBX,Failed, HLA-DM or H2-DM chaperone protein is involved.
+4GBX,Removed
+6BGA,Warning, Successfully cut merged peptide from MHC chain
+4P4R,Warning, Successfully cut merged peptide from MHC chain
+6BLX,Warning, Successfully cut merged peptide from MHC chain
+3O6F,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:178; B:195; C:191; D:245; E:179; F:210; G:188; H:243
+3O6F,Removed
+6BIZ,Failed, Non canonical residues in the peptide chain
+6BIZ,Removed
+6ATF,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4P23,Warning, Successfully cut merged peptide from MHC chain
+6BLX,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+5NI9,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6MKD,Warning, Successfully cut merged peptide from MHC chain
+6MFF,Warning, Successfully cut merged peptide from MHC chain
+6CQL,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+5KS9,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6MNN,Warning, Successfully cut merged peptide from MHC chain
+5DMK,Warning, Successfully cut merged peptide from MHC chain
+6MNG,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: C:174; D:193; A:199; B:239
+6MNG,Removed
+5V4N,Warning, Successfully cut merged peptide from MHC chain
+6HBY,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6DFX,Warning, Successfully cut merged peptide from MHC chain
+6ATI,Failed, Non canonical residues in the peptide chain
+6ATI,Removed
+6MNM,Warning, Successfully cut merged peptide from MHC chain
+4P5T,Warning, Successfully cut merged peptide from MHC chain
+6V13,Failed, Non canonical residues in the peptide chain
+6V13,Removed
+6V18,Failed, Non canonical residues in the peptide chain
+6V18,Removed
+4Y1A,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6XCO,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:195; D:187; E:238
+6XCO,Removed
+6MKR,Warning, Successfully cut merged peptide from MHC chain
+6V1A,Failed, Non canonical residues in the peptide chain
+6V1A,Removed
+4E41,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6MFG,Warning, Successfully cut merged peptide from MHC chain
+6MNO,Warning, Successfully cut merged peptide from MHC chain
+6XCP,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; C:200; D:188; E:239
+6XCP,Removed
+6V15,Failed, Non canonical residues in the peptide chain
+6V15,Removed
+6V19,Failed, Non canonical residues in the peptide chain
+6V19,Removed
+6T3Y,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:183; B:196
+6T3Y,Removed
+6CQR,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6U3M,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6DFW,Warning, Successfully cut merged peptide from MHC chain
+6XC9,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:184; C:198; D:203; E:244; F:182; H:196; I:204; J:244; B:3; G:3
+6XC9,Removed
+6DIG,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6XP6,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4P46,Warning, Successfully cut merged peptide from MHC chain
+6V0Y,Failed, Non canonical residues in the peptide chain
+6V0Y,Removed
+7N19,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+7KEI,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4P2Q,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1A6A,Failed, MHC structure is bound to CLIP peptide
+1A6A,Removed
+1H15,Failed, MHC structure is bound to CLIP peptide
+1H15,Removed
+1D5X,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:179; B:183; C:223; D:6
+1D5X,Removed
+1ES0,Warning, Successfully cut merged peptide from MHC chain
+1D5M,Failed, Non canonical residues in the peptide chain
+1D5M,Removed
+1HDM,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:184; B:183
+1HDM,Removed
+1D6E,Failed, Non canonical residues in the peptide chain
+1D5Z,Failed, Non canonical residues in the peptide chain
+1D6E,Removed
+1D5Z,Removed
+1FNE,Warning, Successfully cut merged peptide from MHC chain
+1FNE,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:186; C:182; D:186; E:27; F:27
+1FNE,Removed
+1K8I,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:181; B:190
+1K8I,Removed
+1FNG,Warning, Successfully cut merged peptide from MHC chain
+1FNG,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:186; C:182; D:186; E:27; F:27
+1FNG,Removed
+1MUJ,Failed, MHC structure is bound to CLIP peptide
+1MUJ,Removed
+1IEB,Warning, Successfully cut merged peptide from MHC chain
+1IEB,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; 1:1; 2:1; E:29; F:29
+1IEB,Removed
+1IEA,Warning, Successfully cut merged peptide from MHC chain
+1IEA,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; E:29; F:29
+1IEA,Removed
+1KT2,Warning, Successfully cut merged peptide from MHC chain
+1KT2,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; 1:2; E:28; F:28
+1KT2,Removed
+1KTD,Warning, Successfully cut merged peptide from MHC chain
+1KTD,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; E:30; F:30
+1KTD,Removed
+1PYW,Failed, Non canonical residues in the peptide chain
+1PYW,Removed
+1LNU,Warning, Successfully cut merged peptide from MHC chain
+1LNU,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:187; C:182; D:187; E:182; F:187; G:182; H:187; 1:1; I:30; J:30; K:30; L:30
+1LNU,Removed
+1I3R,Warning, Successfully cut merged peptide from MHC chain
+1I3R,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:187; C:182; D:187; E:182; F:187; G:182; H:187; 1:2; 2:2; 3:2; 4:2; I:29; J:29; K:29; L:29
+1I3R,Removed
+1SEB,Failed, Non canonical residues in the peptide chain
+1SEB,Removed
+1KLG,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1KLU,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1JWM,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1J8H,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1JL4,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+2IAD,Warning, Successfully cut merged peptide from MHC chain
+2BC4,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:191; C:195; D:197; 1:4; 2:4
+2BC4,Removed
+1UVQ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+2IPK,Failed, Non canonical residues in the peptide chain
+2IPK,Removed
+1R5V,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1D9K,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+2WBJ,Failed, MHC structure is bound to CLIP peptide
+2WBJ,Removed
+2XN9,Failed, MHC structure is bound to CLIP peptide
+2XN9,Removed
+3L6F,Warning, Changed PTM residues into normal residues: SEP -> SER
+3PDO,Failed, MHC structure is bound to CLIP peptide
+3PDO,Removed
+1S9V,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+3PGD,Failed, MHC structure is bound to CLIP peptide
+3PGD,Removed
+3PGC,Failed, MHC structure is bound to CLIP peptide
+3PGC,Removed
+3QXD,Failed, MHC structure is bound to CLIP peptide
+3QXD,Removed
+3C5Z,Warning, Successfully cut merged peptide from MHC chain
+1R5I,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4MCZ,Failed, Non canonical residues in the peptide chain
+4MCZ,Removed
+3C6L,Warning, Successfully cut merged peptide from MHC chain
+4MD4,Failed, Non canonical residues in the peptide chain
+4MD4,Removed
+4MDI,Failed, Non canonical residues in the peptide chain
+4MDI,Removed
+3RDT,Warning, Successfully cut merged peptide from MHC chain
+2IAM,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3T0E,Warning, Successfully cut merged peptide from MHC chain
+4MD0,Failed, Non canonical residues in the peptide chain
+4MD0,Removed
+4MD5,Failed, Non canonical residues in the peptide chain
+4MD5,Removed
+3WEX,Warning, Successfully cut merged peptide from MHC chain
+3LQZ,Warning, Successfully cut merged peptide from MHC chain
+4X5W,Failed, MHC structure is bound to CLIP peptide
+4X5W,Removed
+4X5X,Failed, MHC structure is bound to CLIP peptide
+4X5X,Removed
+3QIW,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3QIB,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4P57,Warning, Successfully cut merged peptide from MHC chain
+4FQX,Failed, HLA-DM or H2-DM chaperone protein is involved.
+4FQX,Removed
+2OJE,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4MCY,Failed, Non canonical residues in the peptide chain
+4MCY,Removed
+4P4K,Warning, Successfully cut merged peptide from MHC chain
+4MDJ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4MDJ,Removed
+4P5M,Warning, Successfully cut merged peptide from MHC chain
+3QXA,Failed, MHC structure is bound to CLIP peptide
+3QXA,Removed
+5KSU,Failed, MHC structure is bound to CLIP peptide
+5KSU,Removed
+5KSV,Failed, MHC structure is bound to CLIP peptide
+5KSV,Removed
+4I0P,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:186; C:181; D:188; E:188; F:187; G:181; H:189; 1:1
+4I0P,Removed
+4P2O,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+5NIG,Failed, Non canonical residues in the peptide chain
+5NIG,Removed
+6BIN,Removed
+5JLZ,Failed, Non canonical residues in the peptide chain
+5JLZ,Removed
+6BIJ,Failed, Non canonical residues in the peptide chain
+6BIJ,Removed
+6BIV,Failed, Non canonical residues in the peptide chain
+6BIV,Removed
+6BIR,Failed, Non canonical residues in the peptide chain
+6BIR,Removed
+6BIL,Failed, Non canonical residues in the peptide chain
+6BIL,Removed
+6BIX,Failed, Non canonical residues in the peptide chain
+6BIX,Removed
+6ATZ,Failed, Non canonical residues in the peptide chain
+6ATZ,Removed
+6BLQ,Warning, Successfully cut merged peptide from MHC chain
+3QIU,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4P4K,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+3MBE,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4GBX,Failed, HLA-DM or H2-DM chaperone protein is involved.
+4GBX,Removed
+5V4M,Warning, Successfully cut merged peptide from MHC chain
+3USA,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:191; C:181; D:189; E:188; F:191; G:181; H:189; 1:2; 2:2; 3:3; 4:2; 5:3; 6:2
+3USA,Removed
+4Y1A,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6BIZ,Failed, Non canonical residues in the peptide chain
+6BIZ,Removed
+3CUP,Warning, Successfully cut merged peptide from MHC chain
+6BLQ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+5LAX,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6BGA,Warning, Successfully cut merged peptide from MHC chain
+4P5K,Warning, Successfully cut merged peptide from MHC chain
+4AH2,Failed, MHC structure is bound to CLIP peptide
+4AH2,Removed
+6CPL,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4P4R,Warning, Successfully cut merged peptide from MHC chain
+1ZGL,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3C60,Warning, Successfully cut merged peptide from MHC chain
+6BLX,Warning, Successfully cut merged peptide from MHC chain
+6MFF,Warning, Successfully cut merged peptide from MHC chain
+4P23,Warning, Successfully cut merged peptide from MHC chain
+6ATF,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+3O6F,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:178; B:195; C:191; D:245; E:179; F:210; G:188; H:243
+3O6F,Removed
+4H25,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6DFX,Warning, Successfully cut merged peptide from MHC chain
+6BLX,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6MKD,Warning, Successfully cut merged peptide from MHC chain
+5NI9,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6MNG,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: C:174; D:193; A:199; B:239
+6MNG,Removed
+6MNN,Warning, Successfully cut merged peptide from MHC chain
+6MFG,Warning, Successfully cut merged peptide from MHC chain
+6ATI,Failed, Non canonical residues in the peptide chain
+6ATI,Removed
+6CQL,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6MNM,Warning, Successfully cut merged peptide from MHC chain
+6HBY,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4P5T,Warning, Successfully cut merged peptide from MHC chain
+6V18,Failed, Non canonical residues in the peptide chain
+6V18,Removed
+6V13,Failed, Non canonical residues in the peptide chain
+6V13,Removed
+4E41,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6XCO,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:195; D:187; E:238
+6XCO,Removed
+5DMK,Warning, Successfully cut merged peptide from MHC chain
+6V1A,Failed, Non canonical residues in the peptide chain
+6V1A,Removed
+5KS9,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6MKR,Warning, Successfully cut merged peptide from MHC chain
+6MNO,Warning, Successfully cut merged peptide from MHC chain
+6V19,Failed, Non canonical residues in the peptide chain
+6V19,Removed
+6V15,Failed, Non canonical residues in the peptide chain
+6V15,Removed
+6XCP,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; C:200; D:188; E:239
+6XCP,Removed
+6U3M,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6CQR,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+5V4N,Warning, Successfully cut merged peptide from MHC chain
+6DFW,Warning, Successfully cut merged peptide from MHC chain
+6XC9,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:184; C:198; D:203; E:244; F:182; H:196; I:204; J:244; B:3; G:3
+6XC9,Removed
+6T3Y,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:183; B:196
+6T3Y,Removed
+6DIG,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4P46,Warning, Successfully cut merged peptide from MHC chain
+7N19,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6XP6,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6V0Y,Failed, Non canonical residues in the peptide chain
+6V0Y,Removed
+4P2Q,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+7KEI,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+1A6A,Failed, MHC structure is bound to CLIP peptide
+1A6A,Removed
+1H15,Failed, MHC structure is bound to CLIP peptide
+1H15,Removed
+1D5X,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:179; B:183; C:223; D:6
+1D5X,Removed
+1ES0,Warning, Successfully cut merged peptide from MHC chain
+1D5Z,Failed, Non canonical residues in the peptide chain
+1D5Z,Removed
+1D6E,Failed, Non canonical residues in the peptide chain
+1D6E,Removed
+1D5M,Failed, Non canonical residues in the peptide chain
+1D5M,Removed
+1HDM,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:184; B:183
+1HDM,Removed
+1FNE,Warning, Successfully cut merged peptide from MHC chain
+1FNE,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:186; C:182; D:186; E:27; F:27
+1FNE,Removed
+1FNG,Warning, Successfully cut merged peptide from MHC chain
+1FNG,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:186; C:182; D:186; E:27; F:27
+1FNG,Removed
+1K8I,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:181; B:190
+1K8I,Removed
+1MUJ,Failed, MHC structure is bound to CLIP peptide
+1MUJ,Removed
+1IEB,Warning, Successfully cut merged peptide from MHC chain
+1IEB,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; 1:1; 2:1; E:29; F:29
+1IEB,Removed
+1IEA,Warning, Successfully cut merged peptide from MHC chain
+1IEA,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; E:29; F:29
+1IEA,Removed
+1PYW,Failed, Non canonical residues in the peptide chain
+1PYW,Removed
+1KT2,Warning, Successfully cut merged peptide from MHC chain
+1KT2,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; 1:2; E:28; F:28
+1KT2,Removed
+1KTD,Warning, Successfully cut merged peptide from MHC chain
+1KTD,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; E:30; F:30
+1KTD,Removed
+1SEB,Failed, Non canonical residues in the peptide chain
+1SEB,Removed
+1I3R,Warning, Successfully cut merged peptide from MHC chain
+1I3R,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:187; C:182; D:187; E:182; F:187; G:182; H:187; 1:2; 2:2; 3:2; 4:2; I:29; J:29; K:29; L:29
+1I3R,Removed
+1LNU,Warning, Successfully cut merged peptide from MHC chain
+1LNU,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:187; C:182; D:187; E:182; F:187; G:182; H:187; 1:1; I:30; J:30; K:30; L:30
+1LNU,Removed
+1JL4,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1JWM,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1KLU,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1R5V,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+2BC4,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:191; C:195; D:197; 1:4; 2:4
+2BC4,Removed
+2IAD,Warning, Successfully cut merged peptide from MHC chain
+1UVQ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+1KLG,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1J8H,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1S9V,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+2WBJ,Failed, MHC structure is bound to CLIP peptide
+2WBJ,Removed
+2IPK,Failed, Non canonical residues in the peptide chain
+2IPK,Removed
+2XN9,Failed, MHC structure is bound to CLIP peptide
+2XN9,Removed
+3L6F,Warning, Changed PTM residues into normal residues: SEP -> SER
+3PDO,Failed, MHC structure is bound to CLIP peptide
+3PDO,Removed
+3PGC,Failed, MHC structure is bound to CLIP peptide
+3PGC,Removed
+3PGD,Failed, MHC structure is bound to CLIP peptide
+3PGD,Removed
+1R5I,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+3QXD,Failed, MHC structure is bound to CLIP peptide
+3QXD,Removed
+3C6L,Warning, Successfully cut merged peptide from MHC chain
+1D9K,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3WEX,Warning, Successfully cut merged peptide from MHC chain
+3C5Z,Warning, Successfully cut merged peptide from MHC chain
+4MCZ,Failed, Non canonical residues in the peptide chain
+4MCZ,Removed
+3RDT,Warning, Successfully cut merged peptide from MHC chain
+2IAM,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4MD4,Failed, Non canonical residues in the peptide chain
+4MD4,Removed
+4MD0,Failed, Non canonical residues in the peptide chain
+4MD0,Removed
+3QIB,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4MDI,Failed, Non canonical residues in the peptide chain
+4MDI,Removed
+3T0E,Warning, Successfully cut merged peptide from MHC chain
+4MD5,Failed, Non canonical residues in the peptide chain
+4MD5,Removed
+3LQZ,Warning, Successfully cut merged peptide from MHC chain
+3QIW,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4P57,Warning, Successfully cut merged peptide from MHC chain
+4X5W,Failed, MHC structure is bound to CLIP peptide
+4X5W,Removed
+4X5X,Failed, MHC structure is bound to CLIP peptide
+4X5X,Removed
+2OJE,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4FQX,Failed, HLA-DM or H2-DM chaperone protein is involved.
+4FQX,Removed
+3QXA,Failed, MHC structure is bound to CLIP peptide
+3QXA,Removed
+3QIU,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4MDJ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+3MBE,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4MDJ,Removed
+4P4K,Warning, Successfully cut merged peptide from MHC chain
+4AH2,Failed, MHC structure is bound to CLIP peptide
+5KSU,Failed, MHC structure is bound to CLIP peptide
+4AH2,Removed
+5KSU,Removed
+4P5M,Warning, Successfully cut merged peptide from MHC chain
+5KSV,Failed, MHC structure is bound to CLIP peptide
+5KSV,Removed
+4MCY,Failed, Non canonical residues in the peptide chain
+4MCY,Removed
+6BIN,Removed
+5JLZ,Failed, Non canonical residues in the peptide chain
+5JLZ,Removed
+5NIG,Failed, Non canonical residues in the peptide chain
+5NIG,Removed
+4P2O,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6BIJ,Failed, Non canonical residues in the peptide chain
+6BIJ,Removed
+6BIR,Failed, Non canonical residues in the peptide chain
+6BIR,Removed
+4I0P,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:186; C:181; D:188; E:188; F:187; G:181; H:189; 1:1
+4I0P,Removed
+6BIV,Failed, Non canonical residues in the peptide chain
+6BIV,Removed
+3C60,Warning, Successfully cut merged peptide from MHC chain
+6BIL,Failed, Non canonical residues in the peptide chain
+6BIL,Removed
+6BIX,Failed, Non canonical residues in the peptide chain
+6BIX,Removed
+6ATZ,Failed, Non canonical residues in the peptide chain
+6ATZ,Removed
+3O6F,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:178; B:195; C:191; D:245; E:179; F:210; G:188; H:243
+3O6F,Removed
+4GBX,Failed, HLA-DM or H2-DM chaperone protein is involved.
+4GBX,Removed
+6BLQ,Warning, Successfully cut merged peptide from MHC chain
+3CUP,Warning, Successfully cut merged peptide from MHC chain
+5V4M,Warning, Successfully cut merged peptide from MHC chain
+3USA,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:191; C:181; D:189; E:188; F:191; G:181; H:189; 1:2; 2:2; 3:3; 4:2; 5:3; 6:2
+3USA,Removed
+4P23,Warning, Successfully cut merged peptide from MHC chain
+4P5K,Warning, Successfully cut merged peptide from MHC chain
+6BGA,Warning, Successfully cut merged peptide from MHC chain
+4H25,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6BLQ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6CPL,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6ATF,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+5LAX,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6BIZ,Failed, Non canonical residues in the peptide chain
+6BIZ,Removed
+6CQL,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6BLX,Warning, Successfully cut merged peptide from MHC chain
+6ATI,Failed, Non canonical residues in the peptide chain
+6ATI,Removed
+1ZGL,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6MFF,Warning, Successfully cut merged peptide from MHC chain
+4E41,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6MKD,Warning, Successfully cut merged peptide from MHC chain
+4P4K,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6MNG,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: C:174; D:193; A:199; B:239
+6MNG,Removed
+6MNN,Warning, Successfully cut merged peptide from MHC chain
+6BLX,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6MNM,Warning, Successfully cut merged peptide from MHC chain
+6DFX,Warning, Successfully cut merged peptide from MHC chain
+4P4R,Warning, Successfully cut merged peptide from MHC chain
+4Y1A,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+5NI9,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+5V4N,Warning, Successfully cut merged peptide from MHC chain
+6V13,Failed, Non canonical residues in the peptide chain
+6V13,Removed
+6V18,Failed, Non canonical residues in the peptide chain
+6V18,Removed
+6V1A,Failed, Non canonical residues in the peptide chain
+6V1A,Removed
+6XCO,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:195; D:187; E:238
+6XCO,Removed
+6HBY,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6T3Y,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:183; B:196
+6T3Y,Removed
+5KS9,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6XCP,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; C:200; D:188; E:239
+6XCP,Removed
+6V19,Failed, Non canonical residues in the peptide chain
+6V19,Removed
+6V15,Failed, Non canonical residues in the peptide chain
+6MNO,Warning, Successfully cut merged peptide from MHC chain
+6V15,Removed
+6MFG,Warning, Successfully cut merged peptide from MHC chain
+6U3M,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+5DMK,Warning, Successfully cut merged peptide from MHC chain
+6CQR,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6DFW,Warning, Successfully cut merged peptide from MHC chain
+4P5T,Warning, Successfully cut merged peptide from MHC chain
+6MKR,Warning, Successfully cut merged peptide from MHC chain
+6XC9,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:184; C:198; D:203; E:244; F:182; H:196; I:204; J:244; B:3; G:3
+6XC9,Removed
+4P46,Warning, Successfully cut merged peptide from MHC chain
+7N19,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6XP6,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6DIG,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6V0Y,Failed, Non canonical residues in the peptide chain
+6V0Y,Removed
+4P2Q,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+7KEI,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+1A6A,Failed, MHC structure is bound to CLIP peptide
+1A6A,Removed
+1H15,Failed, MHC structure is bound to CLIP peptide
+1H15,Removed
+1D6E,Failed, Non canonical residues in the peptide chain
+1D6E,Removed
+1ES0,Warning, Successfully cut merged peptide from MHC chain
+1D5M,Failed, Non canonical residues in the peptide chain
+1D5Z,Failed, Non canonical residues in the peptide chain
+1HDM,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:184; B:183
+1D5M,Removed
+1D5Z,Removed
+1HDM,Removed
+1D5X,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:179; B:183; C:223; D:6
+1D5X,Removed
+1FNE,Warning, Successfully cut merged peptide from MHC chain
+1FNE,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:186; C:182; D:186; E:27; F:27
+1FNE,Removed
+1FNG,Warning, Successfully cut merged peptide from MHC chain
+1MUJ,Failed, MHC structure is bound to CLIP peptide
+1FNG,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:186; C:182; D:186; E:27; F:27
+1MUJ,Removed
+1FNG,Removed
+1IEB,Warning, Successfully cut merged peptide from MHC chain
+1IEB,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; 1:1; 2:1; E:29; F:29
+1IEB,Removed
+1K8I,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:181; B:190
+1K8I,Removed
+1IEA,Warning, Successfully cut merged peptide from MHC chain
+1IEA,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; E:29; F:29
+1IEA,Removed
+1KT2,Warning, Successfully cut merged peptide from MHC chain
+1KT2,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; 1:2; E:28; F:28
+1KT2,Removed
+1KTD,Warning, Successfully cut merged peptide from MHC chain
+1KTD,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; E:30; F:30
+1KTD,Removed
+1PYW,Failed, Non canonical residues in the peptide chain
+1PYW,Removed
+1SEB,Failed, Non canonical residues in the peptide chain
+1SEB,Removed
+1I3R,Warning, Successfully cut merged peptide from MHC chain
+1I3R,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:187; C:182; D:187; E:182; F:187; G:182; H:187; 1:2; 2:2; 3:2; 4:2; I:29; J:29; K:29; L:29
+1I3R,Removed
+1LNU,Warning, Successfully cut merged peptide from MHC chain
+1LNU,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:187; C:182; D:187; E:182; F:187; G:182; H:187; 1:1; I:30; J:30; K:30; L:30
+1LNU,Removed
+1KLG,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1JWM,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1JL4,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+2IAD,Warning, Successfully cut merged peptide from MHC chain
+1S9V,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+1KLU,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+2BC4,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:191; C:195; D:197; 1:4; 2:4
+2BC4,Removed
+2IPK,Failed, Non canonical residues in the peptide chain
+2IPK,Removed
+1R5V,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1UVQ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+2WBJ,Failed, MHC structure is bound to CLIP peptide
+2XN9,Failed, MHC structure is bound to CLIP peptide
+2WBJ,Removed
+2XN9,Removed
+1D9K,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3L6F,Warning, Changed PTM residues into normal residues: SEP -> SER
+1J8H,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3PDO,Failed, MHC structure is bound to CLIP peptide
+3PDO,Removed
+3PGD,Failed, MHC structure is bound to CLIP peptide
+3PGD,Removed
+3PGC,Failed, MHC structure is bound to CLIP peptide
+3PGC,Removed
+3QXD,Failed, MHC structure is bound to CLIP peptide
+3QXD,Removed
+3C6L,Warning, Successfully cut merged peptide from MHC chain
+3C5Z,Warning, Successfully cut merged peptide from MHC chain
+3LQZ,Warning, Successfully cut merged peptide from MHC chain
+2IAM,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4MD4,Failed, Non canonical residues in the peptide chain
+4MD4,Removed
+3WEX,Warning, Successfully cut merged peptide from MHC chain
+4MCZ,Failed, Non canonical residues in the peptide chain
+4MCZ,Removed
+3RDT,Warning, Successfully cut merged peptide from MHC chain
+4MDI,Failed, Non canonical residues in the peptide chain
+4MDI,Removed
+1R5I,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4MD0,Failed, Non canonical residues in the peptide chain
+4MD0,Removed
+3T0E,Warning, Successfully cut merged peptide from MHC chain
+4MD5,Failed, Non canonical residues in the peptide chain
+4MD5,Removed
+4X5W,Failed, MHC structure is bound to CLIP peptide
+4X5W,Removed
+4X5X,Failed, MHC structure is bound to CLIP peptide
+4X5X,Removed
+3QIB,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3QIW,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4P57,Warning, Successfully cut merged peptide from MHC chain
+3QXA,Failed, MHC structure is bound to CLIP peptide
+3QXA,Removed
+2OJE,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4MDJ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4MDJ,Removed
+4P4K,Warning, Successfully cut merged peptide from MHC chain
+4FQX,Failed, HLA-DM or H2-DM chaperone protein is involved.
+4FQX,Removed
+4P5M,Warning, Successfully cut merged peptide from MHC chain
+5KSU,Failed, MHC structure is bound to CLIP peptide
+5KSU,Removed
+5JLZ,Failed, Non canonical residues in the peptide chain
+5JLZ,Removed
+5KSV,Failed, MHC structure is bound to CLIP peptide
+5KSV,Removed
+4I0P,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:186; C:181; D:188; E:188; F:187; G:181; H:189; 1:1
+4I0P,Removed
+4P2O,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3MBE,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+5NIG,Failed, Non canonical residues in the peptide chain
+5NIG,Removed
+4AH2,Failed, MHC structure is bound to CLIP peptide
+6BIN,Removed
+4AH2,Removed
+6BIJ,Failed, Non canonical residues in the peptide chain
+6BIJ,Removed
+6BIL,Failed, Non canonical residues in the peptide chain
+6BIL,Removed
+6BIR,Failed, Non canonical residues in the peptide chain
+6BIR,Removed
+6BIV,Failed, Non canonical residues in the peptide chain
+6BIV,Removed
+4MCY,Failed, Non canonical residues in the peptide chain
+4MCY,Removed
+6BLQ,Warning, Successfully cut merged peptide from MHC chain
+3O6F,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:178; B:195; C:191; D:245; E:179; F:210; G:188; H:243
+3O6F,Removed
+6BIX,Failed, Non canonical residues in the peptide chain
+6BIX,Removed
+6ATZ,Failed, Non canonical residues in the peptide chain
+6ATZ,Removed
+3QIU,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3USA,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:191; C:181; D:189; E:188; F:191; G:181; H:189; 1:2; 2:2; 3:3; 4:2; 5:3; 6:2
+3USA,Removed
+4GBX,Failed, HLA-DM or H2-DM chaperone protein is involved.
+6BLQ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4GBX,Removed
+3CUP,Warning, Successfully cut merged peptide from MHC chain
+5V4M,Warning, Successfully cut merged peptide from MHC chain
+6ATF,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+1ZGL,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4P5K,Warning, Successfully cut merged peptide from MHC chain
+6BIZ,Failed, Non canonical residues in the peptide chain
+6BIZ,Removed
+3C60,Warning, Successfully cut merged peptide from MHC chain
+6BGA,Warning, Successfully cut merged peptide from MHC chain
+5LAX,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6CPL,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6BLX,Warning, Successfully cut merged peptide from MHC chain
+6ATI,Failed, Non canonical residues in the peptide chain
+6ATI,Removed
+6MKD,Warning, Successfully cut merged peptide from MHC chain
+6MFF,Warning, Successfully cut merged peptide from MHC chain
+4P23,Warning, Successfully cut merged peptide from MHC chain
+4Y1A,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4P4K,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+5KS9,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6DFX,Warning, Successfully cut merged peptide from MHC chain
+6MNG,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: C:174; D:193; A:199; B:239
+6MNG,Removed
+4H25,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6BLX,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6CQL,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6HBY,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6MNN,Warning, Successfully cut merged peptide from MHC chain
+6MNM,Warning, Successfully cut merged peptide from MHC chain
+5NI9,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4P4R,Warning, Successfully cut merged peptide from MHC chain
+6MFG,Warning, Successfully cut merged peptide from MHC chain
+6CQR,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6V13,Failed, Non canonical residues in the peptide chain
+6V13,Removed
+6V18,Failed, Non canonical residues in the peptide chain
+6V18,Removed
+6MKR,Warning, Successfully cut merged peptide from MHC chain
+4P5T,Warning, Successfully cut merged peptide from MHC chain
+6V1A,Failed, Non canonical residues in the peptide chain
+6V1A,Removed
+6XCO,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:195; D:187; E:238
+6XCO,Removed
+5DMK,Warning, Successfully cut merged peptide from MHC chain
+6V19,Failed, Non canonical residues in the peptide chain
+6V19,Removed
+6V15,Failed, Non canonical residues in the peptide chain
+6V15,Removed
+6MNO,Warning, Successfully cut merged peptide from MHC chain
+6XCP,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; C:200; D:188; E:239
+6XCP,Removed
+6DFW,Warning, Successfully cut merged peptide from MHC chain
+4E41,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6U3M,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+5V4N,Warning, Successfully cut merged peptide from MHC chain
+6T3Y,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:183; B:196
+6T3Y,Removed
+6XC9,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:184; C:198; D:203; E:244; F:182; H:196; I:204; J:244; B:3; G:3
+6XC9,Removed
+6DIG,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4P2Q,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6XP6,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+7N19,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4P46,Warning, Successfully cut merged peptide from MHC chain
+6V0Y,Failed, Non canonical residues in the peptide chain
+6V0Y,Removed
+7KEI,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+1A6A,Failed, MHC structure is bound to CLIP peptide
+1A6A,Removed
+1D5M,Failed, Non canonical residues in the peptide chain
+1H15,Failed, MHC structure is bound to CLIP peptide
+1D5M,Removed
+1D5X,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:179; B:183; C:223; D:6
+1H15,Removed
+1D5X,Removed
+1D6E,Failed, Non canonical residues in the peptide chain
+1D5Z,Failed, Non canonical residues in the peptide chain
+1D6E,Removed
+1ES0,Warning, Successfully cut merged peptide from MHC chain
+1D5Z,Removed
+1HDM,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:184; B:183
+1HDM,Removed
+1FNG,Warning, Successfully cut merged peptide from MHC chain
+1FNE,Warning, Successfully cut merged peptide from MHC chain
+1IEA,Warning, Successfully cut merged peptide from MHC chain
+1K8I,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:181; B:190
+1FNG,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:186; C:182; D:186; E:27; F:27
+1MUJ,Failed, MHC structure is bound to CLIP peptide
+1IEB,Warning, Successfully cut merged peptide from MHC chain
+1FNE,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:186; C:182; D:186; E:27; F:27
+1IEA,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; E:29; F:29
+1MUJ,Removed
+1FNG,Removed
+1K8I,Removed
+1IEB,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; 1:1; 2:1; E:29; F:29
+1FNE,Removed
+1KT2,Warning, Successfully cut merged peptide from MHC chain
+1IEA,Removed
+1KTD,Warning, Successfully cut merged peptide from MHC chain
+1I3R,Warning, Successfully cut merged peptide from MHC chain
+1IEB,Removed
+1PYW,Failed, Non canonical residues in the peptide chain
+1KT2,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; 1:2; E:28; F:28
+2BC4,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:191; C:195; D:197; 1:4; 2:4
+2XN9,Failed, MHC structure is bound to CLIP peptide
+1KTD,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:185; C:182; D:185; E:30; F:30
+3L6F,Warning, Changed PTM residues into normal residues: SEP -> SER
+1I3R,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:187; C:182; D:187; E:182; F:187; G:182; H:187; 1:2; 2:2; 3:2; 4:2; I:29; J:29; K:29; L:29
+2IAD,Warning, Successfully cut merged peptide from MHC chain
+1JL4,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1SEB,Failed, Non canonical residues in the peptide chain
+1LNU,Warning, Successfully cut merged peptide from MHC chain
+1PYW,Removed
+2WBJ,Failed, MHC structure is bound to CLIP peptide
+1KT2,Removed
+2IPK,Failed, Non canonical residues in the peptide chain
+1D9K,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3PDO,Failed, MHC structure is bound to CLIP peptide
+1JWM,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+2BC4,Removed
+1KLG,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+2XN9,Removed
+1J8H,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3PGC,Failed, MHC structure is bound to CLIP peptide
+1KTD,Removed
+3LQZ,Warning, Successfully cut merged peptide from MHC chain
+1I3R,Removed
+3CUP,Warning, Successfully cut merged peptide from MHC chain
+1KLU,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1UVQ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+2WBJ,Removed
+1SEB,Removed
+1LNU,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:187; C:182; D:187; E:182; F:187; G:182; H:187; 1:1; I:30; J:30; K:30; L:30
+4AH2,Failed, MHC structure is bound to CLIP peptide
+2IPK,Removed
+1R5V,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3QXA,Failed, MHC structure is bound to CLIP peptide
+3PDO,Removed
+3PGD,Failed, MHC structure is bound to CLIP peptide
+3QXD,Failed, MHC structure is bound to CLIP peptide
+3PGC,Removed
+3QXA,Removed
+3PGD,Removed
+3QXD,Removed
+1S9V,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+3C5Z,Warning, Successfully cut merged peptide from MHC chain
+3C6L,Warning, Successfully cut merged peptide from MHC chain
+3O6F,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:178; B:195; C:191; D:245; E:179; F:210; G:188; H:243
+2IAM,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+1R5I,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+3QIU,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3QIB,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+3USA,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:191; C:181; D:189; E:188; F:191; G:181; H:189; 1:2; 2:2; 3:3; 4:2; 5:3; 6:2
+3RDT,Warning, Successfully cut merged peptide from MHC chain
+3O6F,Removed
+3T0E,Warning, Successfully cut merged peptide from MHC chain
+3QIW,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+2OJE,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+3C60,Warning, Successfully cut merged peptide from MHC chain
+3USA,Removed
+4MCY,Failed, Non canonical residues in the peptide chain
+4MD4,Failed, Non canonical residues in the peptide chain
+4FQX,Failed, HLA-DM or H2-DM chaperone protein is involved.
+4MCZ,Failed, Non canonical residues in the peptide chain
+6BIN,Removed
+4X5X,Failed, MHC structure is bound to CLIP peptide
+4MCY,Removed
+4MD5,Failed, Non canonical residues in the peptide chain
+4I0P,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:188; B:186; C:181; D:188; E:188; F:187; G:181; H:189; 1:1
+4MD4,Removed
+4X5W,Failed, MHC structure is bound to CLIP peptide
+4H25,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4MCZ,Removed
+4FQX,Removed
+4X5X,Removed
+4MD5,Removed
+4I0P,Removed
+4GBX,Failed, HLA-DM or H2-DM chaperone protein is involved.
+4X5W,Removed
+4MDI,Failed, Non canonical residues in the peptide chain
+4GBX,Removed
+5KSV,Failed, MHC structure is bound to CLIP peptide
+4MDI,Removed
+5KSV,Removed
+4P4R,Warning, Successfully cut merged peptide from MHC chain
+4P57,Warning, Successfully cut merged peptide from MHC chain
+3WEX,Warning, Successfully cut merged peptide from MHC chain
+4P23,Warning, Successfully cut merged peptide from MHC chain
+3MBE,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4E41,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4P5K,Warning, Successfully cut merged peptide from MHC chain
+4P5M,Warning, Successfully cut merged peptide from MHC chain
+4P4K,Warning, Successfully cut merged peptide from MHC chain
+4P46,Warning, Successfully cut merged peptide from MHC chain
+4MDJ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+5KSU,Failed, MHC structure is bound to CLIP peptide
+1ZGL,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6BIJ,Failed, Non canonical residues in the peptide chain
+5NIG,Failed, Non canonical residues in the peptide chain
+6ATZ,Failed, Non canonical residues in the peptide chain
+4MD0,Failed, Non canonical residues in the peptide chain
+6BIV,Failed, Non canonical residues in the peptide chain
+4Y1A,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+4MDJ,Removed
+5KSU,Removed
+6BLQ,Warning, Successfully cut merged peptide from MHC chain
+6BIV,Removed
+4P2O,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6BIR,Failed, Non canonical residues in the peptide chain
+6BIX,Failed, Non canonical residues in the peptide chain
+6BIL,Failed, Non canonical residues in the peptide chain
+6BIJ,Removed
+5NIG,Removed
+5V4N,Warning, Successfully cut merged peptide from MHC chain
+4MD0,Removed
+6ATZ,Removed
+4P5T,Warning, Successfully cut merged peptide from MHC chain
+5DMK,Warning, Successfully cut merged peptide from MHC chain
+6BIL,Removed
+6BIR,Removed
+5JLZ,Failed, Non canonical residues in the peptide chain
+6BIX,Removed
+5JLZ,Removed
+6BLX,Warning, Successfully cut merged peptide from MHC chain
+6BGA,Warning, Successfully cut merged peptide from MHC chain
+5NI9,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6ATI,Failed, Non canonical residues in the peptide chain
+6ATI,Removed
+6BIZ,Failed, Non canonical residues in the peptide chain
+6MFF,Warning, Successfully cut merged peptide from MHC chain
+6MNG,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: C:174; D:193; A:199; B:239
+6BIZ,Removed
+6MNG,Removed
+6BLQ,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6MKD,Warning, Successfully cut merged peptide from MHC chain
+6MNN,Warning, Successfully cut merged peptide from MHC chain
+6MNM,Warning, Successfully cut merged peptide from MHC chain
+6CPL,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6MKR,Warning, Successfully cut merged peptide from MHC chain
+5LAX,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6MNO,Warning, Successfully cut merged peptide from MHC chain
+6T3Y,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:183; B:196
+6T3Y,Removed
+6MFG,Warning, Successfully cut merged peptide from MHC chain
+6BLX,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+5V4M,Warning, Successfully cut merged peptide from MHC chain
+6DIG,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6V19,Failed, Non canonical residues in the peptide chain
+6V19,Removed
+6DFW,Warning, Successfully cut merged peptide from MHC chain
+6V13,Failed, Non canonical residues in the peptide chain
+6XCO,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; B:195; D:187; E:238
+6V0Y,Failed, Non canonical residues in the peptide chain
+6XCO,Removed
+6V13,Removed
+6V0Y,Removed
+6DFX,Warning, Successfully cut merged peptide from MHC chain
+6V1A,Failed, Non canonical residues in the peptide chain
+6V1A,Removed
+6ATF,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6V18,Failed, Non canonical residues in the peptide chain
+6V18,Removed
+6CQL,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6V15,Failed, Non canonical residues in the peptide chain
+6V15,Removed
+6XCP,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:182; C:200; D:188; E:239
+6XCP,Removed
+4P4K,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6HBY,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6XC9,Failed, Could not find a suitable peptide chain with a length between 7 and 25. Found: A:184; C:198; D:203; E:244; F:182; H:196; I:204; J:244; B:3; G:3
+6XC9,Removed
+6U3M,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+5KS9,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+6CQR,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
+7KEI,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+7N19,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+6XP6,Warning, There are heteroatoms within 6 Angstrom of the peptide chain
+4P2Q,Warning, Warning: Found a beta-strand in peptide. This is most likely a crystal artifact or it is causeb by a bound TCR
