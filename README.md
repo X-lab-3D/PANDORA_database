@@ -1,4 +1,6 @@
 # Database for PANDORA
+## ARCHIVING NOTE: 
+This repository will be archived as it is deprecated. PANDORA's database is currently deposited and updated on zenodo: 10.5281/zenodo.6373630
 
 ## Installation
 
